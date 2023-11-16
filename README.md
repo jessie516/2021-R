@@ -1,7 +1,7 @@
-# NLP_Dacon
+# Dacon_NLP
 https://dacon.io/competitions/official/236027/overview/description
 
-- NLP_Dacon.ipynb
+- Dacon_NLP.ipynb
 - train.csv
 - test.csv
 - sample_submission.csv
