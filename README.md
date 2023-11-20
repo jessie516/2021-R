@@ -8,4 +8,3 @@ https://dacon.io/competitions/official/236027/overview/description
 - sample_submission.csv
 - data_info.csv
 - submit.csv
-df
