@@ -1,6 +1,7 @@
 # Dacon_NLP
 
 Sentiment classification modelling with the given dataset from Dacon, applying some NLP techniques such as lemmatizer and word_tokenize
+
 https://dacon.io/competitions/official/236027/overview/description
 
 - Sentiment classification_NLP_Dacon_EN.ipynb
