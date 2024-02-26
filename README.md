@@ -1,4 +1,4 @@
-# Dacon_NLP
+# Sentiment-classification_NLP_Dacon
 
 https://dacon.io/competitions/official/236027/overview/description
 
